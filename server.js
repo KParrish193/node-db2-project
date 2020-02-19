@@ -6,6 +6,9 @@ const server = express();
 
 server.use(express.json());
 
+
+
+
 // function getById(id) {
 //     return db("cars")
 //         .where({ id })
